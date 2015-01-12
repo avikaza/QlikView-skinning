@@ -1,0 +1,18 @@
+.caption {
+    font-family: verdana;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 150px;
+    height: 24px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(232, 232, 232);
+}
